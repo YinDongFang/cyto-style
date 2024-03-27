@@ -17,8 +17,8 @@
   },
   "homepage": "https://github.com/YinDongFang/cyto-style#readme",
   "dependencies": {
-    "blob": "^0.1.0",
     "cross-env": "^7.0.3",
+    "cytoscape": "^3.28.1",
     "debug": "^4.3.4",
     "express": "^4.19.2",
     "is-array": "^1.0.1",
@@ -27,18 +27,14 @@
     "is-null": "^1.0.1",
     "is-number": "^7.0.0",
     "is-object": "^1.0.2",
-    "is-odd": "^3.0.1",
-    "is-string": "^1.0.7",
     "jquery": "^3.7.1",
-    "koa": "^2.15.2",
     "lodash": "^4.17.21",
-    "nodemon": "^3.1.0",
     "qs": "^6.12.0",
     "querystring": "^0.2.1",
-    "react": "^18.2.0",
-    "uuid": "^9.0.1",
-    "vite": "^5.2.6",
-    "vue": "^3.4.21",
-    "webpack": "^5.91.0"
+    "is-base": "^1.0.0",
+    "thisispro": "^1.0.0",
+    "thisislist": "^1.0.0",
+    "cyto-op": "^1.0.0",
+    "cyto": "^1.0.0"
   }
 }
